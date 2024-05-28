@@ -1,5 +1,5 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2023 TeamUltroid
+# Moonshining1 - UserBot
+# Copyright (C) 2021-2023 User-bot2.0
 #
 # This file is a part of < https://github.com/Moonshining1/User-bot2.0/ >
 # PLease read the GNU Affero General Public License in
